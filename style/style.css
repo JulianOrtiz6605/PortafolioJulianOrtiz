@@ -114,8 +114,9 @@ header ul li:hover a
 {   /* Foto del hombre */
     position: absolute;
     bottom: 0;
-    right: 100px;
-    max-height: 90vh; /*Tamaño de imagen, referente al inferior*/
+    right: 8px;
+    max-height: 54vh;
+} /*Tamaño de imagen, referente al inferior*/
 }
 #services,
 #portfolio,
